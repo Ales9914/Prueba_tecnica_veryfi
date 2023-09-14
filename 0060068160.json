@@ -1,0 +1,18 @@
+{
+      "bill_to_name": "Atta: Mr. A. L. Gillon",
+      "bill_to": "New York, NY 10017",
+      "ship_to_name": null,
+      "ship_to_address": "60 East 42nd Street",
+      "line_items": [
+            {
+                  "quantity": "750",
+                  "Description": "MALIBU King Size Bulletina, 14 x 40\"",
+                  "Value": 57.45
+            },
+            {
+                  "quantity": null,
+                  "Description": "Additional Separation Charge",
+                  "Value": 1200.0
+            }
+      ]
+}

@@ -1,0 +1,13 @@
+{
+      "bill_to_name": "Mr. Denis Sullivan",
+      "bill_to": "PO BOX 1100\nCHESTER, VIRGINIA 23831-8100",
+      "ship_to_name": null,
+      "ship_to_address": "Twenty-Ten Maple Avenue",
+      "line_items": [
+            {
+                  "quantity": "540",
+                  "Description": "CARLTON Two-Sheet Station Posters\n46\" x 60\"\nPosters are printed 2 colors (red, black)\non 70# coated outdoor stock.\nCOPY FOR IDENTIFICATION\nToday, If You Smoke Please Try CARLTON\"\nWarning Statement \"D\" to read: SURGEON\nGENERAL'S WARNING: Cigarette smoke\ncontains Carbon Monoxide.\nPacking: Material to be kraft wrapped.",
+                  "Value": 5.25
+            }
+      ]
+}

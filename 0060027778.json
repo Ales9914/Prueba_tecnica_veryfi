@@ -1,0 +1,13 @@
+{
+      "bill_to_name": "Mr. Warren Katz",
+      "bill_to": "PO BOX 1100\nCHESTER VIRGINIA 23831-8100",
+      "ship_to_name": null,
+      "ship_to_address": "STAMFORD CONNECTICUT 06904-2380",
+      "line_items": [
+            {
+                  "quantity": "400",
+                  "Description": "CARLTON King Size Bus Posters - 29\" x 144\"\nCOPY FOR IDENTIFICATION\nToday, If You Smoke Please Try CARLTON\"\nWarning Statement \"p\" - SURGEON GENERAL'S\nWARNING: CIGARETTE SMOKE CONTAINS CARBON\nMONOXIDE.\nPosters are screened 2 colors (red, black)\nplus clear coating on 4 mil. removable\npressure sensitive vinyl.\nPacking: Material to be kraft wrapped.\nOverruns or underruns not to exceed 5%.\nOverruns beyond 5% will not be paid for.",
+                  "Value": 17.97
+            }
+      ]
+}

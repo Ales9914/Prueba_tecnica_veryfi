@@ -1,0 +1,13 @@
+{
+      "bill_to_name": "EDEN JEWELRY CO., INC.",
+      "bill_to": "212 Highlawn Avenue\nBrooklyn, NY 11223",
+      "ship_to_name": "THE FULFILLMENT HOUSE",
+      "ship_to_address": "7 Midland Avenue",
+      "line_items": [
+            {
+                  "quantity": "6,500",
+                  "Description": "Keyrings, as per sample submitted\nand approved; Gold Finish, engraved\nand color filled in red PALL MALL.\nKeyrings are to be packaged in a\nCardboard Gift Box.\nThis Purchase Order is subject to and",
+                  "Value": 1.45
+            }
+      ]
+}
